@@ -1,0 +1,27 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+input[type="number"], button {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.button-group {
+  margin-bottom: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+}
